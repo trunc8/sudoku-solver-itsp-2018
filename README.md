@@ -30,3 +30,13 @@ Key Components: Raspberry Pi 3B, Camera Module, 2 Steppers, 2 Servos, Number Sta
 #### <pre>Labelled:</pre>
 
 ![IP1](Images/Im_lab.png)
+
+## Authors
+
+* **Siddharth Saha** - [trunc8](https://github.com/trunc8)
+* **Arnab Jana**
+* **Madhur Sudarshan**
+* **Aaron John Sabu**
+
+
+<p align='center'>Created with :heart: by <a href="https://www.linkedin.com/in/sahasiddharth611/">Siddharth</a></p>
