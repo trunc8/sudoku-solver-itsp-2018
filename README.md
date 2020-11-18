@@ -4,6 +4,7 @@
 
 As part of the Institute Technical Summer Project at IIT Bombay, my team implemented a Raspian-based CNC Machine to physically fill into any given unsolved Sudoku grid.
 
+Accompanying [YouTube video](https://www.youtube.com/watch?v=3ukm6GfWYAw)
 ***
 
 Two phases: Digit recognition and Motor control. Code written in Python.
