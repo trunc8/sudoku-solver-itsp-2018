@@ -34,10 +34,9 @@ Key Components: Raspberry Pi 3B, Camera Module, 2 Steppers, 2 Servos, Number Sta
 
 ## Authors
 
-* **Siddharth Saha** - [trunc8](https://github.com/trunc8)
+* **Aaron John Sabu** - [aaronjohnsabu1999](https://github.com/aaronjohnsabu1999)
 * **Arnab Jana**
 * **Madhur Sudarshan**
-* **Aaron John Sabu** - [aaronjohnsabu1999](https://github.com/aaronjohnsabu1999)
+* **Siddharth Saha** - [trunc8](https://github.com/trunc8)
 
-
-<p align='center'>Created with :heart: by <a href="https://www.linkedin.com/in/sahasiddharth611/">Siddharth</a></p>
+<p align='center'>Created with :heart: by <a href="https://www.linkedin.com/in/sahasiddharth611/">Siddharth</a> and <a href="https://sites.google.com/view/aaronjs/">Aaron</a></p>
