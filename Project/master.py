@@ -11,7 +11,7 @@ from skimage.feature import hog
 from skimage import io
 from matplotlib import pyplot as plt
 from time import sleep
-from Motor_code import move_stepper_x, move_stepper_y, move_numwheel
+from motorCode import move_stepper_x, move_stepper_y, move_numwheel
 from solve import solveSudoku
 from performRecognition import recognize
 
